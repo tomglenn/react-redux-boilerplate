@@ -3,6 +3,7 @@
 A complete `react` boilerplate application with the following provided and configured out-of-the-box:
  - `redux` for state management
  - `redux-thunk` for async redux actions
+ - `@reach/router` for application level routing
  - `webpack` with `webpack-dev-server` for transpiling/bundling
  - `dotenv` for environment configuration
  - `eslint` with `eslint-config-airbnb` for static code analysis
