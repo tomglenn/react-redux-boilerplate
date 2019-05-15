@@ -1,0 +1,38 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Components/Counter Component should render correctly 1`] = `
+<div>
+  <p>
+    Counter: 
+    1
+  </p>
+  <button
+    data-selector="increase-counter-button"
+    onClick={[MockFunction]}
+    type="button"
+  >
+    +1
+  </button>
+  <button
+    data-selector="decrease-counter-button"
+    onClick={[MockFunction]}
+    type="button"
+  >
+    -1
+  </button>
+  <button
+    data-selector="increase-counter-delayed-button"
+    onClick={[Function]}
+    type="button"
+  >
+    +1 (delayed 1s)
+  </button>
+  <button
+    data-selector="decrease-counter-delayed-button"
+    onClick={[Function]}
+    type="button"
+  >
+    -1 (delayed 1s)
+  </button>
+</div>
+`;

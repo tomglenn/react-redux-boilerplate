@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Components/Navigation Component should render correctly 1`] = `
+<ul>
+  <li>
+    <ForwardRef
+      to="/"
+    >
+      Home
+    </ForwardRef>
+  </li>
+  <li>
+    <ForwardRef
+      to="/about"
+    >
+      About
+    </ForwardRef>
+  </li>
+</ul>
+`;

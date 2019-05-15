@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Components/Header Component should render correctly 1`] = `
+<header>
+  <h1>
+    react-redux-boilerplate
+  </h1>
+  <Navigation />
+</header>
+`;

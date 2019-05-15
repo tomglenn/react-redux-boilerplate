@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Components/Footer Component should render correctly 1`] = `
+<footer>
+  <p>
+    Created with
+     
+    <span
+      aria-label="love"
+      role="img"
+    >
+      ❤️
+    </span>
+     
+    by 
+    <a
+      href="https://github.com/tomglenn"
+    >
+      Tom Glenn
+    </a>
+  </p>
+</footer>
+`;
