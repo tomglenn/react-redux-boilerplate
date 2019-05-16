@@ -14,14 +14,9 @@ A complete `react` boilerplate application with the following provided and confi
 
  To get started, you can either clone this repository and make a copy of the code, or use `degit` to do this for you which will result in a clean copy of the project with none of the git history (i.e. no `.git` folder).
 
- To use `degit` run:
+ To get started, run:
  ```
-npm install -g degit
- ```
-
- Then run:
- ```
-degit tomglenn/react-redux-boilerplate my-project-name
+npx degit tomglenn/react-redux-boilerplate my-project-name
  ```
 
  Once you have a copy of the boilerplate, you can run the following to open the app:
